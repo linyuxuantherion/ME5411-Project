@@ -1,4 +1,4 @@
-# ME5411 — Image Processing Tasks 1–6
+# ME5411 — Currently Completed Code for Image Processing Task1–6
 
 English · [简体中文](README_zh-CN.md)
 
