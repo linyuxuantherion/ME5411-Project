@@ -1,0 +1,16 @@
+# Local MATLAB / macOS files
+.DS_Store
+*.asv
+*.m~
+*.mlx~
+
+# Generated project outputs; keep source datasets tracked
+/Task1-6_Output/
+/CoreCode/TestOutput/
+
+# Local experiment archives and optional document exports
+/LiveDemo/experiments/
+/LiveDemo/runs/
+/LiveDemo/ME5411_Task1to6_Demo.html
+/LiveDemo/ME5411_Task1to6_Demo.pdf
+/LiveDemo/*_media/
